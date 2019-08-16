@@ -1,0 +1,14 @@
+/Users/oguzhankaya/Projects/ElasticSearchExample/bin/Debug/netcoreapp2.2/ElastisSearchExample.deps.json
+/Users/oguzhankaya/Projects/ElasticSearchExample/bin/Debug/netcoreapp2.2/ElastisSearchExample.runtimeconfig.json
+/Users/oguzhankaya/Projects/ElasticSearchExample/bin/Debug/netcoreapp2.2/ElastisSearchExample.runtimeconfig.dev.json
+/Users/oguzhankaya/Projects/ElasticSearchExample/bin/Debug/netcoreapp2.2/ElastisSearchExample.dll
+/Users/oguzhankaya/Projects/ElasticSearchExample/bin/Debug/netcoreapp2.2/ElastisSearchExample.pdb
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.csprojAssemblyReference.cache
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.RazorAssemblyInfo.cache
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.RazorAssemblyInfo.cs
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.AssemblyInfo.cs
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.RazorTargetAssemblyInfo.cache
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.dll
+/Users/oguzhankaya/Projects/ElasticSearchExample/obj/Debug/netcoreapp2.2/ElastisSearchExample.pdb
